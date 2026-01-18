@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Seo test" verbose="1" >
+<test name="perform Broken Valid Links Test and Domain Test and Anchoe tag test">
+
+<classes>
+
+<class name="SeoTest.seotest"></class>
+</classes>
+
+</test>
+</suite>
