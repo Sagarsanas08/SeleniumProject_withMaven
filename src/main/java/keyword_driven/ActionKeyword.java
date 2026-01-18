@@ -33,7 +33,7 @@ public class ActionKeyword {
 	public static void getURL(String homeurl) throws InterruptedException
 	{
 		d.get(homeurl);
-		Thread.sleep(2000);
+		Thread.sleep(12000);
 		
 	}
 	
